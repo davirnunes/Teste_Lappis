@@ -67,6 +67,3 @@ projeto/
   * **Análise Multi-Estadual:** Expandir a coleta e análise para projetos em outros estados do Brasil.
 
 <!-- end list -->
-
-```
-```
